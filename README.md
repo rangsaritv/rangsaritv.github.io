@@ -45,6 +45,8 @@ $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 
 Use k_{n+1} = n^2 + k_n^2 - k_{n-1} to write
 
+Example (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; example (2): $a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}$
+
 
 {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 

@@ -38,7 +38,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Test
+
 $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+
+$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+
+Use k_{n+1} = n^2 + k_n^2 - k_{n-1} to write
+
+
 {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
  {% endraw %}

@@ -39,3 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Test
 $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+{% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}

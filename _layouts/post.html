@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<head>
+    {% include head.html %}
+</head>
 <p>{{ page.date | date_to_string }} - Written by {{ page.author }}</p>
 
 {{ content }}
